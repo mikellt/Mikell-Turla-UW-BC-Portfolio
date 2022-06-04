@@ -1,0 +1,28 @@
+* {
+    color: white;
+}
+
+header {
+    color: white;
+    background-color: #16123f;
+}
+
+nav {
+    background-color: #c7ddcc;
+}
+
+nav a {
+    color:#16123f;
+}
+
+body {
+    background-color:#abd699;
+}
+
+footer {
+    background-color:#16123f;
+}
+
+h3 {
+    color:red;
+}
