@@ -1,28 +1,35 @@
-* {
-    color: white;
+
+*{
+    color: #191716;
 }
 
 header {
-    color: white;
-    background-color: #16123f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    background-color: #3d348b;
 }
 
-nav {
-    background-color: #c7ddcc;
+header h1 {
+    color: #e6af2e;
 }
 
 nav a {
-    color:#16123f;
+    color:#e3c985;
+    display:flex;
+    justify-content: end;
+    align-items:flex-end;
 }
 
 body {
-    background-color:#abd699;
+    background-color:#beb7a4;
 }
 
 footer {
-    background-color:#16123f;
+    background-color: #3d348b;
 }
 
 h3 {
-    color:red;
+    color: red;
 }
