@@ -1,4 +1,6 @@
 # Portfolio Project
+- Tried to mock up the example but came into some cool ideas googling like a floating nav bar. 
+- my page features a simple header, a body with a photo to the left and text wraped on the right side that with more content should go back to occupying the whole width of the page. The navigation link will bring you to the top for about me, my work to the 4 boxed with image backgrounds that i want to eventually link to different pages, and the contact will lead to bottom of the page.
 
 ## Acceptance Criteria
 
